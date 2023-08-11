@@ -1,0 +1,22 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "Back End Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karim-20-maker/Back-End.git"
+  },
+  "author": "karim ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karim-20-maker/Back-End/issues"
+  },
+  "homepage": "https://github.com/karim-20-maker/Back-End#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
